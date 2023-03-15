@@ -1,0 +1,21 @@
+{
+  "name": "mentoring-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shtempel/Mentoring-NodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shtempel/Mentoring-NodeJs.git/issues"
+  },
+  "homepage": "https://github.com/shtempel/Mentoring-NodeJs.git#readme",
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
