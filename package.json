@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "task1": "nodemon src/task1.ts",
+    "task2": "nodemon src/task2.ts"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/shtempel/Mentoring-NodeJs.git"
@@ -16,6 +19,9 @@
   },
   "homepage": "https://github.com/shtempel/Mentoring-NodeJs.git#readme",
   "dependencies": {
-    "nodemon": "^2.0.21"
+    "csvtojson": "^2.0.10",
+    "nodemon": "^2.0.21",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
   }
 }
